@@ -13,6 +13,8 @@
 ######################
 /log/
 /target/
+/pet-clinic-data/target/
+/pet-clinic-web/target/
 
 ######################
 # Gradle
